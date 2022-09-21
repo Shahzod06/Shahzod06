@@ -1,6 +1,6 @@
 <h2> I'm Shaxzod Xojiakbarov! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
@@ -27,64 +27,7 @@ npx anmol
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
 
-> 🏆 598 Contributions in the Year 2020
- > 
-> 📦 340.7 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 33 Public Repositories
- > 
-> 🔑 16 Private Repositories 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
-🌆 Daytime    153 commits    ████████░░░░░░░░░░░░░░░░░   31.55% 
-🌃 Evening    150 commits    ███████░░░░░░░░░░░░░░░░░░   30.93% 
-🌙 Night      111 commits    █████░░░░░░░░░░░░░░░░░░░░   22.89%
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
-Tuesday      55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
-Wednesday    52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
-Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-Friday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
-Saturday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
-Sunday       101 commits    █████░░░░░░░░░░░░░░░░░░░░   20.82%
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-💬 Programming Languages: 
-C                        5 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   34.87% 
-JavaScript               4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69% 
-Python                   3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   22.72% 
-JSON                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%
-🔥 Editors: 
-Pycharm                  12 hrs 36 mins      ███████████████████░░░░░░   78.58% 
-VisulStudio              3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
-Android Studio           20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
-💻 Operating System: 
-Windows                  16 hrs 2 mins       █████████████████████████   100.0%
-```
-
-**I Mostly Code in Vue** 
-
-```text
-C                        11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21% 
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-```
 
 
 **Timeline**

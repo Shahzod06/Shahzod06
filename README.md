@@ -9,11 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-👇 Hit in your console or terminal to connect with me.
 
-```bash
-npx anmol
-```
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
@@ -38,3 +34,4 @@ npx anmol
 -----
 Credits:
 
+<img src="https://github.com/shaurya-src/shaurya-src/raw/main/Assets/python.png" height="40" hspace="10" style="max-width: 100%;">

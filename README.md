@@ -19,12 +19,9 @@
 
 **Timeline**
 
-![Chart not found](https://github.com/anmol098/anmol098/blob/master/charts/bar_graph.png) 
 
 
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Shahzod06-readme-stats)**
 
 -----
 Credits:

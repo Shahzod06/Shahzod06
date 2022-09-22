@@ -34,4 +34,4 @@
 -----
 Credits:
 
-<img src="https://github.com/shaurya-src/shaurya-src/raw/main/Assets/python.png" height="40" hspace="10" style="max-width: 100%;">
+<img src="https://github.com/shaurya-src/shaurya-src/raw/main/Assets/c.png" height="40" hspace="10" style="max-width: 100%;">

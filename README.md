@@ -15,16 +15,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
-
-
-**Timeline**
-
-
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Shahzod06-readme-stats)**
-
------
-Credits:
+Programming languages that I know:
 
 <img src="https://github.com/shaurya-src/shaurya-src/raw/main/Assets/python.png" height="40" hspace="10" style="max-width: 100%;">
 

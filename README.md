@@ -31,3 +31,5 @@
 Credits:
 
 <img src="https://github.com/shaurya-src/shaurya-src/raw/main/Assets/python.png" height="40" hspace="10" style="max-width: 100%;">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahzod06&show_icons=true&theme=radical)
